@@ -6,10 +6,10 @@
   font-weight: normal;
   line-height: 42px;
   opacity: 1;
+  color: #2f80ed;
 }
 
 .khan__buy-link:hover {
-  text-decoration: underline;
   opacity: 0.5;
   transition: opacity 0.5s ease-in;
 }

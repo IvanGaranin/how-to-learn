@@ -1,5 +1,10 @@
 .cards__item {
   width: 240px;
   box-sizing: border-box;
-  padding: 0;
+  padding: 60px 0 0 0;
+  margin: 0;
+}
+
+.cards__item:last-of-type {
+  margin-right: 340px;
 }
